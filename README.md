@@ -18,12 +18,11 @@
   ##
  
 <div> 
-  <a href=" https://youtu.be/9xakccv9cyA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href=" https://discord.gg/rk2q8UtVB7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/watch?v=9xakccv9cyA&ab_channel=DeluxeRoleplay" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/rk2q8UtVB7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "( contato comercial ) deluxesrp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-### Oiii eu sou O Deluxe Roleplay, Somos Uma cidade revolucionária Dentro Dá Comunidade Do MTA ( Multi Theft Auto ) !
